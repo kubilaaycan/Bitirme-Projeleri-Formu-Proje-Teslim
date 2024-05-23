@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hacik\\Desktop\\C# PROJE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|c:\\users\\hacik\\desktop\\c# proje\\proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|C:\\Users\\hacik\\Desktop\\C# PROJE\\proje\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6FB5E0-E541-49D0-B00B-576E44D485DB}|PROJE\\PROJE.csproj|solutionrelative:proje\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form7.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form7.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form7.cs",
+              "RelativeToolTip": "PROJE\\Form7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:08:34.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form7.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form7.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form7.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form7.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PROJE\\Form7.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:51:10.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form6.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form6.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form6.cs",
+              "RelativeToolTip": "PROJE\\Form6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:27:45.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form6.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form6.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form6.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form6.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PROJE\\Form6.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:26:31.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form5.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form5.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form5.cs",
+              "RelativeToolTip": "PROJE\\Form5.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:00:27.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form5.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form5.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form5.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PROJE\\Form5.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:59:37.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form4.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form4.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form4.cs",
+              "RelativeToolTip": "PROJE\\Form4.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:14:10.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form4.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form4.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PROJE\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:13:21.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form3.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form3.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form3.cs",
+              "RelativeToolTip": "PROJE\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:54:06.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form3.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form3.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PROJE\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:53:30.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form2.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form2.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form2.cs",
+              "RelativeToolTip": "PROJE\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:05:44.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form2.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form2.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PROJE\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:28:46.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form1.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form1.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form1.cs",
+              "RelativeToolTip": "PROJE\\Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAABsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:52:49.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form1.cs",
+              "RelativeDocumentMoniker": "PROJE\\Form1.cs",
+              "ToolTip": "C:\\Users\\hacik\\Desktop\\C# PROJE\\PROJE\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PROJE\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:16:35.739Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

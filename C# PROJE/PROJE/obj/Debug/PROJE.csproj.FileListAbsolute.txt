@@ -1,0 +1,97 @@
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\Google.Protobuf.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\MySql.Data.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\NuGet.Frameworks.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Buffers.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Memory.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\ZstdSharp.dll
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\Google.Protobuf.pdb
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\Google.Protobuf.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\MySql.Data.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Buffers.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Memory.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.csproj.AssemblyReference.cache
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.csproj.Up2Date
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.AkademisyenGirisFormu.resources
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.BPYS.resources
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.BaskentAkadm.resources
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.Ogrenciler.resources
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.BitirmeProjeleriFormu.resources
+C:\Users\hacik\Desktop\PROJE\PROJE\obj\Debug\PROJE.AkPrAkNoGiFo.resources
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\Google.Protobuf.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\MySql.Data.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\NuGet.Frameworks.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Buffers.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Memory.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\ZstdSharp.dll
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\Google.Protobuf.pdb
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\Google.Protobuf.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\MySql.Data.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Buffers.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Memory.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.csproj.AssemblyReference.cache
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.AkademisyenGirisFormu.resources
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.BPYS.resources
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.BaskentAkadm.resources
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.Ogrenciler.resources
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.BitirmeProjeleriFormu.resources
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.AkPrAkNoGiFo.resources
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.GenelListe.resources
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.csproj.Up2Date
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\hacik\Desktop\C# PROJE\PROJE\obj\Debug\PROJE.pdb
